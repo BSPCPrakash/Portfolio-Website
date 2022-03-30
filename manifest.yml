@@ -1,0 +1,21 @@
+name:              first-push 
+
+requested state:   started 
+
+routes:            first-push-12345.kubecf1.rscale.dev 
+
+last uploaded:     Sat 07 Mar 11:47:05 MDT 2020 
+
+stack:             cflinuxfs3 
+
+buildpacks:        binary 
+
+ 
+
+type:            web 
+
+instances:       1/1 
+
+memory usage:    32M 
+
+start command:   ./bin/sample-app 
